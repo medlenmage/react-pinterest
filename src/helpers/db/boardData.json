@@ -1,0 +1,17 @@
+{
+  "board1": {
+    "name": "Star Wars Memes",
+    "description": "This is a board filled with star wars memes",
+    "uid": "ORI46heuWIRNF5z7pLWIpVgXGVz2"
+  },
+  "board2": {
+    "name": "LOTR Memes",
+    "description": "This is a board filled with LOTR memes",
+    "uid": "ORI46heuWIRNF5z7pLWIpVgXGVz2"
+  },
+  "board3": {
+    "name": "Uncle Iroh Memes",
+    "description": "This is a board with memes showing why uncle iroh is the best",
+    "uid": "ORI46heuWIRNF5z7pLWIpVgXGVz2"
+  }
+}
